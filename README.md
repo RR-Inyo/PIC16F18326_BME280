@@ -1,5 +1,5 @@
 ## PIC16F18326 and BME280-based CR2032-powered mobile barometer
-I built a mobile barometer based on a Microchip PIC16F18326 microcotroller and Bosch Sensortec BME280 temperature/humidity/pressure sendor. It shows the data on a character LCD module based on an ST7032 LCD controller.
+I built a mobile barometer based on a Microchip PIC16F18326 microcotroller and Bosch Sensortec BME280 temperature/humidity/pressure sensor. It shows the data on a character LCD module based on an ST7032 LCD controller.
 
 I was trying to make the system fancy as shown below.
 
